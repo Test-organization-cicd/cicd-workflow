@@ -1,5 +1,5 @@
 name: Organization Check
-on: [pull_request]
+on: [pull-request]
 
 jobs:
   Explore-GitHub-Actions:
